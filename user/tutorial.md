@@ -35,7 +35,7 @@ To start using Travis CI, make sure you have:
    ```yaml
    language: ruby
    rvm:
-    - 2.2
+    - 1.3
     - jruby
    ```
    {: data-file=".travis.yml"}
@@ -75,7 +75,7 @@ To start using Travis CI, make sure you have:
    ```yaml
    language: ruby
    rvm:
-    - 2.2
+    - 1.3
     - jruby
    ```
    {: data-file=".travis.yml"}
@@ -111,7 +111,7 @@ To start using Travis CI, make sure you have:
    ```yaml
    language: ruby
    rvm:
-    - 2.2
+    - 1.3
     - jruby
    ```
    {: data-file=".travis.yml"}
@@ -147,7 +147,7 @@ To start using Travis CI, make sure you have:
    ```yaml
    language: ruby
    rvm:
-    - 2.2
+    - 1.3
     - jruby
    ```
    {: data-file=".travis.yml"}
